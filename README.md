@@ -52,6 +52,4 @@ This repository contains the source code accompanying our paper "Leveraging Stac
 
 ## Citation
 
-Zhang, T., Zhao, X., Yeo, B. T. T., Huo, X., Eickhoff, S. B., & Chen, J. (2024). Leveraging Stacked Classifiers for Multi-task Executive Function in Schizophrenia Yields Diagnostic and Prognostic Insights. *medRxiv*. https://doi.org/10.1101/2024.12.05.24318587
-
-**Note:** This preprint is currently under review at *Schizophrenia Bulletin*. Citation information will be updated upon
+Zhang, T., Zhao, X., Yeo, B. T. T., Huo, X., Eickhoff, S. B., & Chen, J. (2026). Leveraging Stacked Classifiers for Multi-task Executive Function in Schizophrenia Yields Diagnostic and Prognostic Insights. Schizophrenia Bulletin, 52(2), sbaf218. https://doi.org/10.1093/schbul/sbaf218
